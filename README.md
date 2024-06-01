@@ -12,7 +12,6 @@
 
 - 🔭 I’m currently learning data science
 - :coffee: I LOVE coffee
-- ⚡ Fun fact: I h8 :avocado:
 
 ---
 ## My Skill Set
