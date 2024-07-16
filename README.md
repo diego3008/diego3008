@@ -34,13 +34,7 @@
 </div>
 
 <br>
-<div align="center">
 
----
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=b5a3hntw937vkqd221wbtdj4x&cover_image=true&theme=default&bar_color=19be71&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
-<br>
----
-<div/>
 
 ## Connect with me
 
