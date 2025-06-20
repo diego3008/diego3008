@@ -14,7 +14,7 @@
 
 ### Here are some ideas to get you started :boom: :
 
-- 🔭 I’m currently learning data science
+- 🔭 Building new things
 - :coffee: I LOVE coffee
 
 ---
