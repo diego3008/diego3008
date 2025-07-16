@@ -41,4 +41,4 @@
 
 ## :robot: About Me
 
-I am actively seeking opportunities as an AI Engineer or Research Engineer. I have hands-on experience working with AI agents and MCP (Multi-Agent Control Platforms), and I am passionate about building intelligent systems and advancing AI research.
+I am actively seeking opportunities as an AI Engineer or Research Engineer. I have hands-on experience working with AI agents and MCP (Model Context Protocol), and I am passionate about building intelligent systems and advancing AI research.
