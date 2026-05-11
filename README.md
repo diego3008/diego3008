@@ -15,9 +15,12 @@ Building AI-powered products at the intersection of logistics, automation, and f
 
 ## What I'm building
 
-**[Hauler.AI](https://github.com/diego3008)** — An agentic platform that automates back-office operations for logistics and transportation companies. It handles the repetitive operational layer — follow-ups, email triage, status updates — so teams can focus on work that actually moves the business forward.
+**[Hauler.AI](https://v0-logistics-agent-app.vercel.app/)** — An agentic platform that automates back-office operations for logistics and transportation companies. It handles the repetitive operational layer — follow-ups, email triage, status updates — so teams can focus on work that actually moves the business forward.
 
 Built with LangGraph, FastAPI, and Next.js. Inspired by three years inside the logistics industry at Trayecto (Monterrey).
+
+- [Agents repo](https://github.com/diego3008/hauler.ai)
+- [Frontend repo](https://github.com/diego3008/hauler.ai_front)
 
 ---
 
