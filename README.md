@@ -1,44 +1,56 @@
 <div align="center">
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diego3008&langs_count=7&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+# Diego Rubalcava
+
+**Software Engineer · Monterrey, Mexico**
+
+Building AI-powered products at the intersection of logistics, automation, and full-stack engineering.
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diego-rubalcava/)
+[![GitHub](https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/diego3008)
 
 </div>
-
-<div align="center">
-  
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=diego3008&show_icons=true&theme=radical)
-  
-</div>
-
-### :computer: Software engineer :pencil2:
-
-### Here are some ideas to get you started :boom: :
-
--   🔭 Building new things
--   :coffee: I LOVE coffee
 
 ---
 
-## My Skill Set
+## What I'm building
 
-<div align="center">
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" />
-</div>
+**[Hauler.AI](https://github.com/diego3008)** — An agentic platform that automates back-office operations for logistics and transportation companies. It handles the repetitive operational layer — follow-ups, email triage, status updates — so teams can focus on work that actually moves the business forward.
 
-<br>
-
-## Connect with me
-
-<div align="center"><a href="https://www.linkedin.com/in/diego-rubalcava/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://github.com/diego3008" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
+Built with LangGraph, FastAPI, and Next.js. Inspired by three years inside the logistics industry at Trayecto (Monterrey).
 
 ---
 
-## :robot: About Me
+## Experience
 
-I am actively seeking opportunities as an AI Engineer or Research Engineer. I have hands-on experience working with AI agents and MCP (Model Context Protocol), and I am passionate about building intelligent systems and advancing AI research.
+**Trayecto** · Software Engineer · *2023 – April 2026*
+Logistics and transportation company based in Monterrey. Worked close to the operational core, which gave me direct insight into the back-office inefficiencies that Hauler.AI is now solving.
+
+**Orchata** · Software Engineer · *YC W20*
+Early-stage YC-backed startup. Hands-on experience building and shipping product fast in a resource-constrained, high-ownership environment.
+
+---
+
+## Stack
+
+| Layer | Tools |
+|---|---|
+| AI / Agents | LangGraph, LLM tool use, multi-agent orchestration |
+| Backend | Python, FastAPI, Pydantic |
+| Frontend | Next.js, TypeScript, Vercel V0 |
+
+---
+
+## What I'm looking for
+
+I'm actively seeking opportunities at **AI-first or AI-forward companies** — as an AI Engineer, full-stack engineer, or early-stage hire where both matter. I move fast, work across the stack, and bring domain depth in an industry (logistics) that is still largely untouched by modern AI.
+
+---
+
+<div align="center">
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diego3008&langs_count=7&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=diego3008&show_icons=true&theme=radical)
+
+</div>
