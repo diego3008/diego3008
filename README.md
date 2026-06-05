@@ -36,7 +36,7 @@ Monterrey, Mexico
 
 - **Languages:** Python, C#, SQL (PostgreSQL, SQL Server), JavaScript, TypeScript, HTML/CSS
 - **Frameworks:** React, Angular, Django, FastAPI, LangGraph, .NET
-- **Developer Tools:** Git, Azure DevOps, Visual Studio, VS Code, Microsoft SQL Server, LangSmith, TravisCI
+- **Developer Tools:** Git, Azure DevOps, Visual Studio, VS Code, Microsoft SQL Server, LangSmith
 
 ## Education
 
