@@ -2,7 +2,7 @@
 
 # Diego Rubalcava
 
-Monterrey, Mexico — 81-12-42-72-15 — diegoarlechuga@gmail.com — linkedin.com/in/diego-rubalcava
+Monterrey, Mexico — diegoarlechuga@gmail.com — linkedin.com/in/diego-rubalcava
 
 </div>
 
